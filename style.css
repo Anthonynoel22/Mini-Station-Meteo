@@ -1,6 +1,9 @@
 body {
     font-family: "Arial", sans-serif;
-    background: linear-gradient(135deg, #f5f7fa 0% #c3cfe2 100%);
+    background-image: url("public/nasib-mountain-and-cloud-2388115_1920.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
